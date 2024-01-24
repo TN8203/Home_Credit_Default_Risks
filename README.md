@@ -3,8 +3,7 @@ A credit risk modeling project in Data Preparation and Visualization
 
 In the banking and financial industry, credit risk modeling is one of the most important tasks. Instead of using complex models, data scientists must utilize the basic model because of its explainability. Therefore, the preprocessing steps need to be carefully taken. You will have to explore the data and perform data preparation to improve the performance of the default Logistic Regression model with the given dataset.
 
-### Evaluation
-Submissions are evaluated on GINI. Gini can be calculated via the AUC in the formula: GINI = 2 x AUC - 1
+*Submissions are evaluated on GINI. Gini can be calculated via the AUC in the formula: GINI = 2 x AUC - 1*
 
 ### This is the notebook for the final Credit Default Risks project by Group 11, DSEB K63, NEU
 ### Team member
@@ -12,7 +11,7 @@ Submissions are evaluated on GINI. Gini can be calculated via the AUC in the for
    * Vu Mai Dung
    * Nguyen Phuong Thao
 
-#### [Link to Presentation Slide] (https://drive.google.com/file/d/1Fd0XV_igjwwUWq57-9pmoh8Xbqon4fEG/view?usp=sharing)
+#### [Link to Presentation Slide](https://drive.google.com/file/d/1Fd0XV_igjwwUWq57-9pmoh8Xbqon4fEG/view?usp=sharing)
 
 
 Repository Organization
