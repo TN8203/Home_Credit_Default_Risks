@@ -6,15 +6,6 @@ In the banking and financial industry, credit risk modeling is one of the most i
 ### Evaluation
 Submissions are evaluated on GINI. Gini can be calculated via the AUC in the formula: GINI = 2 x AUC - 1
 
-### Submission File
-For each SK_ID_CURR in the test set, you must predict a probability for the TARGET variable. The file should contain a header and have the following format:
-
-SK_ID_CURR,TARGET
-5, 0.5
-13,0.5
-16,0.5
-etc.
-
 ### This is the notebook for the final Credit Default Risks project by Group 11, DSEB K63, NEU
 ### Team member
    * Tran Hai Nam
