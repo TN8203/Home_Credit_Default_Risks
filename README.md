@@ -6,6 +6,9 @@ In the banking and financial industry, credit risk modeling is one of the most i
 *Submissions are evaluated on GINI. Gini can be calculated via the AUC in the formula: GINI = 2 x AUC - 1*
 
 
+#### [Link to Data Set](https://drive.google.com/drive/folders/1Yt3KR8-Flx2b5KczLErbU_5fjDCpvsdB?usp=sharing)
+
+
 Repository Organization
 ------------
     ├── README.md          <- The top-level README for developers using this project.
@@ -33,4 +36,3 @@ Repository Organization
     └── model
          ├── submission   <- Store prediction results.
          └──  final_model
-
